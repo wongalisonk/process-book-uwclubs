@@ -1,0 +1,64 @@
+body {
+	display: flex;
+  	min-height: 100vh;
+  	flex-direction: column;
+}
+
+main {
+  	flex: 1 0 auto;
+}
+
+.space {
+	padding-left: 3em;
+	padding-right: 3em;
+	padding-bottom: 2em;
+}
+
+.brand-logo {
+	margin-left: 1em;
+}
+
+#title {
+	font-size: 100px;
+	text-align: center;
+}
+
+#logo {
+	width: 1em;
+	height: 1em;
+}
+
+h2 {
+	text-align: center;
+}
+
+#heading {
+	margin-bottom: 0px;
+	padding-left: 0.5em;
+}
+
+#team, #iterate, #decision, #conclusion {
+	background-color: #EDE6E8;
+}
+
+.circular {
+	border-radius: 50%;
+	height: 10em;
+	width: 10em;
+}
+
+.test {
+	text-align: center;
+}
+
+#cover h1 {
+	margin-top: 0px;
+}
+
+h5 {
+	text-align: center;
+}
+
+footer.page-footer {
+	margin-top: 0px;
+}
