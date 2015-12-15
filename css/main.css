@@ -18,6 +18,11 @@ main {
 	margin-left: 1em;
 }
 
+#cover {
+	padding-top: 10em;
+	padding-bottom: 10em;
+}
+
 #title {
 	font-size: 100px;
 	text-align: center;
@@ -39,7 +44,7 @@ h2 {
 	text-align: center;
 }
 
-#team, #iterate, #decision, #conclusion {
+#team, #iterate, #decision, #final {
 	background-color: #EDE6E8;
 }
 
